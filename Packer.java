@@ -7,7 +7,7 @@ class Packer
     public static void main(String a[])
     {
         Scanner sobj = new Scanner(System.in);
-        System.out.println("--------- Marvellous Packer Unpacker CUI Panel --------- ");
+        System.out.println("--------- Packer Unpacker CUI Panel --------- ");
 
         try
         {
@@ -71,7 +71,7 @@ class Packer
                 System.out.println("Number of files scanned : "+allfiles.length);
                 System.out.println("Number of files packed succesfully : "+ Counter);
 
-                System.out.println("Thank you for using Marvellous Packer Unpacker Application");
+                System.out.println("Thank you for using Packer Unpacker Application");
             }
             else
             {
